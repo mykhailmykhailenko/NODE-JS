@@ -1,0 +1,22 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "This is our first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mykhailmykhailenko/NODE-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mykhailmykhailenko/NODE-JS/issues"
+  },
+  "homepage": "https://github.com/mykhailmykhailenko/NODE-JS#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
