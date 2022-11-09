@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mykhailmykhailenko/NODE-JS#readme",
   "dependencies": {
+    "immer": "^9.0.16",
     "lodash": "^4.17.21"
   }
 }
